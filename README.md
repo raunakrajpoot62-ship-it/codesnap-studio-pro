@@ -1,6 +1,6 @@
 # DevBoard 🚀
 
-A modern offline productivity dashboard built with HTML, CSS, and JavaScript.
+A modern offline productivity dashboard
 
 ---
 
